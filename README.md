@@ -72,14 +72,10 @@ The project demonstrates:
 Navigate into the project folder:
 
 bash
-Copy
-Edit
 cd webscraping_project
 Create a Virtual Environment (recommended):
 
 bash
-Copy
-Edit
 python -m venv venv
 Activate the Virtual Environment:
 
