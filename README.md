@@ -1,4 +1,4 @@
-# Webscraping_Project
+# Webscraping Project
 
 A **Scrapy** project designed to:
 
