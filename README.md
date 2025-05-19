@@ -6,6 +6,7 @@ A **Scrapy** project designed to:
 - **Extract** book details (title, price, UPC, category, availability, etc.)  
 - **Store** results in a **MySQL database** and an **Excel file**  
 - **Visualize** the extracted data using **Plotly** and **Pandas**
+- **Implement** logging and error handling for debugging and reliability
 
 ---
 
